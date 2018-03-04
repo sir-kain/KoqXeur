@@ -34,8 +34,8 @@ tns create my-app-name --template https://github.com/NativeScript/template-maste
 
 ### Architecture
 The template has the following components:
-- `/cars/car-list.component.ts` - the master list component. It gets the data and displays it in a list. On item tap, it navigates to the item details component.
-- `/cars/car-detail/car-detail.component.ts` - the item details component. Displays the details of the tapped item. Has an `Edit` button that leads to the edit component.
+- `/cars/shop-list.component.ts` - the master list component. It gets the data and displays it in a list. On item tap, it navigates to the item details component.
+- `/cars/car-detail/shop-detail.component.ts` - the item details component. Displays the details of the tapped item. Has an `Edit` button that leads to the edit component.
 - `/cars/car-detail-edit/car-detail-edit.component.ts` - the item details edit component. Provides edit options for the selected item. The `Done` button saves the changes.
 
 There is one model to represent the data items:

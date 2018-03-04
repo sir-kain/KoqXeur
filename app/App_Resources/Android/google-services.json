@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "33002893899",
-    "firebase_url": "https://car-rental-b26b7.firebaseio.com",
-    "project_id": "car-rental-b26b7",
-    "storage_bucket": "car-rental-b26b7.appspot.com"
+    "project_number": "1009360554796",
+    "firebase_url": "https://koqxeur.firebaseio.com",
+    "project_id": "koqxeur",
+    "storage_bucket": "koqxeur.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:33002893899:android:1aa8448c56b58a16",
+        "mobilesdk_app_id": "1:1009360554796:android:0b337517a17e591d",
         "android_client_info": {
           "package_name": "org.nativescript.KoqXeur"
         }
       },
       "oauth_client": [
         {
-          "client_id": "33002893899-9vqs9kk47iuj43ofml42tosba2f3rk2u.apps.googleusercontent.com",
+          "client_id": "1009360554796-vqhf02cg1j2542o81odvknb4dm2uc72j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCijF8lzSzSoCAAIjeiyR9IZBN6FEE8L4k"
+          "current_key": "AIzaSyDwZbeiu8VO2S4Fxe3yJ5lulVLzbeokbfg"
         }
       ],
       "services": {
